@@ -4,7 +4,7 @@ MINI PROJECT
 This is a Project repo created by
 
 1.Mohammed sharooq N
-2.Skarma kunzung namgali
+2.Skarma kunzung namgail
 3.Stevin reny emerson
 4.Ziyad Kadekara
 
